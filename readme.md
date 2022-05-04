@@ -1,4 +1,5 @@
 - Preprocessing
+- Sentiment Analysis
 - Topic Modeling
 - TF-IDF
 - GeoLocation
